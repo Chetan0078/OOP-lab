@@ -69,3 +69,7 @@ int main() {
 
     return 0;
 }
+
+//Pointers are used to make memory efficient system and it also optimise the system
+//SearchByTicketNumber() just follow the basic conditional operator if else,and == to compare two numbers and give boolean output
+//if we dont use array then we have options like vector and lists, if we are not using any of them then code becomes complex as we are using indiusual vars for each travaller 

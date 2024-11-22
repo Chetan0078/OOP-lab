@@ -1,3 +1,4 @@
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -125,5 +126,4 @@ int main() {
     cout << "\nDisplaying all patients after deletion:\n";
     h1.displayPatients();
 
-    return 0;
-}
+    return 0;}

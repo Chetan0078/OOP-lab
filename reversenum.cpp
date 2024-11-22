@@ -1,3 +1,4 @@
+
 #include<bits/stdc++.h>
 using namespace std;
 class Maths{
@@ -29,5 +30,4 @@ int main(){
     a1.setNum(num);
     cout<<endl;
     cout<<a1.reverseNum(num);
-    
 }

@@ -1,3 +1,4 @@
+
 #include <bits/stdc++.h>
 using namespace std;
 bool isWordPresent(string sentence, string word)

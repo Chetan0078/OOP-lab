@@ -1,3 +1,4 @@
+
 #include<bits/stdc++.h>
 using namespace std;
 int area;
@@ -38,4 +39,3 @@ int main(){
         break;
     }
     
-}

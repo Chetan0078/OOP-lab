@@ -32,5 +32,10 @@ class DVDs{
 int main(){
     cout<<"Helloworld!";
     cout<<"This is new line";
+    cout<<"This is new line";
+    cout<<"This is new line";
+    cout<<"This is new line";
+    cout<<"This is new line";
+
     
 }

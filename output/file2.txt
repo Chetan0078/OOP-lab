@@ -1,0 +1,2 @@
+This is file to read by ifstream member function of fstream class
+and this is a second line

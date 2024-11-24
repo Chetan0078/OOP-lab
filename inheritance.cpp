@@ -47,11 +47,10 @@ int main() {
     LibraryItem* l;
     Books b("book", "The Boys", 456);
     l = &b;
-    l->display(); // Will now call Books::display() due to polymorphism
-
+    l->display(); 
     DVDs d("The Matrix", 2.5);
     l = &d;
-    l->display(); // Demonstrates polymorphism with DVDs::display()
+    l->display(); 
 
     return 0;
 }

@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 // class Person{
@@ -39,13 +39,15 @@ using namespace std;
 //     }
 // }
 
-int main(){
-    try{
-        int *p= new int[100000000];
-        p[10000000001]=10;
-
+int main()
+{
+    try
+    {
+        int *p = new int[100000000];
+        p[10000000001] = 10;
     }
-    catch(exception &e){
-        cout<<e.what();
+    catch (exception &e)
+    {
+        cout << e.what();
     }
 }
